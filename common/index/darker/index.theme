@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Darker
+Name=Arc-Nord-Darker
 Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Darker
-MetacityTheme=Arc-Darker
-IconTheme=Adwaita
-CursorTheme=DMZ-Black
+GtkTheme=Arc-Nord-Darker
+MetacityTheme=Arc-Nord-Darker
+IconTheme=Papirus-Nord-Dark
+CursorTheme=Breeze_Snow
 ButtonLayout=menu:minimize,maximize,close

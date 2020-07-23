@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Lighter
+Name=Arc-Nord-Light
 Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Lighter
-MetacityTheme=Arc-Lighter
-IconTheme=Adwaita
-CursorTheme=DMZ-Black
+GtkTheme=Arc-Nord-Light
+MetacityTheme=Arc-Nord-Light
+IconTheme=Papirus-Nord-Light
+CursorTheme=Breeze_Obsidian
 ButtonLayout=menu:minimize,maximize,close
