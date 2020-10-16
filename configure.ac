@@ -1,6 +1,6 @@
 AC_INIT(
     [arc-theme],
-    [20200513],
+    [20201013],
     [https://github.com/jnsh/arc-theme/issues],
     [arc-theme],
     [https://github.com/jnsh/arc-theme],
@@ -26,7 +26,6 @@ ARC_ENABLE([UNITY],         [unity],         [Unity],         [disable])
 ARC_ENABLE([XFWM],          [xfwm],          [XFWM],          [disable])
 ARC_ENABLE([TRANSPARENCY],  [transparency],  [transparency],  [disable])
 ARC_ENABLE([PLANK],         [plank],         [Plank theme],   [disable])
-ARC_ENABLE([OPENBOX],       [openbox],       [Openbox],       [disable])
 
 AS_IF([test "x$ENABLE_TRANSPARENCY" != xno], [
     AC_SUBST([themedir], [${datadir}/themes/Arc])
