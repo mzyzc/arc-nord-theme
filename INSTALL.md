@@ -17,6 +17,12 @@ Or download and extract a [snapshot](https://github.com/jnsh/arc-theme/archive/m
 
 ##### Installing system wide for all users
 
+###### Fast installation
+
+Run `install.sh`
+
+###### Traditional
+
 Install to `/usr/share/themes` for all users by running the following with root permissions:
 
     ./autogen.sh --prefix=/usr
