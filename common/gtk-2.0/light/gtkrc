@@ -11,7 +11,7 @@ gtk-color-scheme = "insensitive_fg_color: #5d626d"
 gtk-color-scheme = "notebook_bg: #d8dee9"
 gtk-color-scheme = "dark_sidebar_bg: #eceff4"
 gtk-color-scheme = "link_color: #88c0d0"
-gtk-color-scheme = "menu_bg: #d8dee9"
+gtk-color-scheme = "menu_bg: #eceff4"
 
 gtk-icon-sizes = "gtk-button=16,16" # This makes button icons smaller.
 gtk-auto-mnemonics = 1
