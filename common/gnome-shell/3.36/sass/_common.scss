@@ -110,7 +110,7 @@ StEntry {
   }
 
   StIcon.peek-password {
-    icon-size: 1.09em;
+    icon-size: 16px;
     padding: 0 4px;
   }
 
@@ -225,6 +225,19 @@ StScrollBar {
   color: $link_color;
 
   &:hover { color: lighten($link_color,10%); }
+}
+
+//
+// App Icons
+//
+/* Outline for low res icons */
+.lowres-icon {
+  icon-shadow: none;
+}
+
+/* Drapshadow for large icons */
+.icon-dropshadow {
+  icon-shadow: none;
 }
 
 //
